@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { SKILLS } from '../constants';
-import { SkillCategory } from '../types';
+import { SKILLS } from './constants';
+import { SkillCategory } from './types';
 
 const SkillsSection: React.FC = () => {
   const categories: SkillCategory[] = [
