@@ -1,9 +1,9 @@
 
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import SkillsSection from './components/SkillsSection';
-import AIAssistant from './components/AIAssistant';
+import Navbar from './Navbar';
+import Hero from './Hero';
+import SkillsSection from './SkillsSection';
+import AIAssistant from './AIAssistant';
 import { EXPERIENCES, PROJECTS } from './constants';
 
 const App: React.FC = () => {
