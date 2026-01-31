@@ -1,0 +1,7 @@
+{
+  "name": "Portfolio Ingénieur Mathématiques & Finance",
+  "description": "Un site portfolio moderne et interactif pour un ingénieur en mathématiques appliquées et finance, incluant un assistant IA pour les recruteurs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
