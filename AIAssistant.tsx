@@ -1,7 +1,7 @@
 
 import React, { useState, useRef, useEffect } from 'react';
-import { getGeminiResponse } from '../services/gemini';
-import { EXPERIENCES, PROJECTS, SKILLS } from '../constants';
+import { getGeminiResponse } from './services/gemini';
+import { EXPERIENCES, PROJECTS, SKILLS } from './constants';
 
 const AIAssistant: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
